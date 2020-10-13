@@ -1,0 +1,21 @@
+@font-face {
+  font-family: goldfont;
+  src: url(/font/Hello\ Valentina.ttf);
+}
+p {
+  font-family: goldfont;
+  color: blue;
+}
+img {
+  float: right;
+}
+h1 {
+  color: blue;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: cadetblue;
+  background-color: darkblue;
+}
